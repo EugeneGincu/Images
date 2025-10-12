@@ -13,7 +13,7 @@ function createImage() {
     if (images.children.length !== 0)
         images.firstElementChild.remove();
     let img = document.createElement('img');
-    let src = event.target.getAttribute('href');
+    let src = event.target.dataset.imageSrc;
     img.setAttribute('src', 'images/' + src);
     images.append(img);
     event.preventDefault();
