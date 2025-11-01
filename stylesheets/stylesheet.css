@@ -1,2 +1,13 @@
 @charset "utf-8";
 
+div#images {
+    border: 1px solid red;
+    width: min-content;
+}
+
+/* Grid */
+#stars {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 10px;
+}

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Sirius",
+    "file": "sirius.webp"
+  },
+  {
+    "name": "Canopus",
+    "file": "canopus.webp"
+  },
+  {
+    "name": "Alpha Centauri",
+    "file": "alpha-centauri.webp"
+  },
+  {
+    "name": "Arcturus",
+    "file": "arcturus.png"
+  },
+  {
+    "name": "Vega",
+    "file": "vega.webp"
+  },
+  {
+    "name":"Capella",
+    "file": "capella.webp"
+  },
+  {
+    "name": "Rigel",
+    "file": "rigel.webp"
+  },
+  {
+    "name":"Procyon",
+    "file": "procyon.webp"
+  }
+]
