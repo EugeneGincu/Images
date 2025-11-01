@@ -11,3 +11,13 @@ div#images {
     grid-template-columns: repeat(5, 1fr);
     gap: 10px;
 }
+
+#stars > li {
+    /*background-color: yellow;*/
+    text-align: center;
+    list-style: none;
+}
+
+#stars a {
+    text-decoration: none;
+}
