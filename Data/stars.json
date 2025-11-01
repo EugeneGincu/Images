@@ -28,7 +28,63 @@
     "file": "rigel.webp"
   },
   {
-    "name":"Procyon",
+    "name": "Procyon",
     "file": "procyon.webp"
+  },
+  {
+    "name": "Achernar",
+    "file": "achernar.webp"
+  },
+  {
+    "name": "Betelgeuse",
+    "file": "betelgeuse.webp"
+  },
+  {
+    "name": "Hadar",
+    "file": "hadar.webp"
+  },
+  {
+    "name": "Altair",
+    "file": "altair.webp"
+  },
+  {
+    "name": "Acrux",
+    "file": "acrux.jpg"
+  },
+  {
+    "name": "Aldebaran",
+    "file": "aldebaran.jpg"
+  },
+  {
+    "name": "Antares",
+    "file": "antares.webp"
+  },
+  {
+    "name": "Spica",
+    "file": "spica.webp"
+  },
+  {
+    "name": "Pollux",
+    "file": "pollux.webp"
+  },
+  {
+    "name": "Fomalhaut",
+    "file": "fomalhaut.webp"
+  },
+  {
+    "name": "Deneb",
+    "file": "deneb.webp"
+  },
+  {
+    "name": "Mimosa",
+    "file": "mimosa.jpg"
+  },
+  {
+    "name": "Regulus",
+    "file": "regulus.webp"
+  },
+  {
+    "name": "Castor",
+    "file": "castor.jpg"
   }
 ]
