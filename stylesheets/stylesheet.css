@@ -1,5 +1,16 @@
 @charset "utf-8";
 
+/* Body */
+body {
+    width: 95%;
+    margin: auto;
+    display: flex;
+    flex-flow: column nowrap;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 30px;
+}
+
 h1 {
     text-align:center;
 }
