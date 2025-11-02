@@ -19,6 +19,8 @@ stars.addEventListener('click', createImage);
 // document.write(document.querySelector('ul#stars a')[0].href);
 
 function createImage() {
+    if (event.target.tagName !== 'LI')
+        return;
     if (imageDisplay.children.length !== 0)
         imageDisplay.firstElementChild.remove();
     let img = document.createElement('img');
