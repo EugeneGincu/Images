@@ -86,5 +86,9 @@
   {
     "name": "Castor",
     "file": "castor.jpg"
+  },
+  {
+    "name": "Bellatrix",
+    "file": "bellatrix.png"
   }
 ]
