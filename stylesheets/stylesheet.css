@@ -28,7 +28,7 @@ div#imageDisplay {
     gap: 10px;
 }
 
-#stars > li {
+li {
     text-align: center;
     list-style: none;
     box-sizing: border-box;
@@ -39,3 +39,21 @@ div#imageDisplay {
     /*line-height: 6em;*/
     cursor: default;
 }
+
+button#theme {
+    position:absolute;
+    right: 0;
+}
+
+.darkTheme{
+    background-color: #505050;
+    /*color: lightgray;*/
+    & li {
+        background-color: gray;
+        /*color:lightgray;*/
+    }
+}
+
+/*li {*/
+/*    background-color: blue;*/
+/*}*/

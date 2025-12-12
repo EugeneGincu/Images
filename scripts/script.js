@@ -10,7 +10,8 @@ let stars = document.getElementById('stars');
 //Append stars as list items to UL
 for (let star of data){
     let listItem = document.createElement('li');
-    listItem.append(star.name);
+    // listItem.append(star.name);
+    listItem.insertAdjacentHTML("afterbegin", star.name + "</br><cite style=font-size:0.7em;>north: " + star.north + "</cite>");
     listItem.dataset.imageSrc = star.file;
     stars.append(listItem);
 }
@@ -28,3 +29,9 @@ function createImage() {
     img.setAttribute('src', 'images/' + src);
     imageDisplay.append(img);
 }
+
+document.getElementById('theme').addEventListener('click', () => {
+    document.body.classList.toggle("darkTheme");
+    document.getElementById('stars').classList.toggle("darkTheme");
+    document.getElementById('theme').classList.toggle("darkTheme")
+});
