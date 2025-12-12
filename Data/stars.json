@@ -1,106 +1,132 @@
 [
   {
     "name": "Sirius",
-    "file": "sirius.webp"
+    "file": "sirius.webp",
+    "north": "visible"
   },
   {
     "name": "Canopus",
-    "file": "canopus.webp"
+    "file": "canopus.webp",
+    "north": "not visible"
   },
   {
     "name": "Alpha Centauri",
-    "file": "alpha-centauri.webp"
+    "file": "alpha-centauri.webp",
+    "north": "not visible"
   },
   {
     "name": "Arcturus",
-    "file": "arcturus.png"
+    "file": "arcturus.png",
+    "north": "visible"
   },
   {
     "name": "Vega",
-    "file": "vega.webp"
+    "file": "vega.webp",
+    "north": "visible"
   },
   {
     "name":"Capella",
-    "file": "capella.webp"
+    "file": "capella.webp",
+    "north": "visible"
   },
   {
     "name": "Rigel",
-    "file": "rigel.webp"
+    "file": "rigel.webp",
+    "north": "visible"
   },
   {
     "name": "Procyon",
-    "file": "procyon.webp"
+    "file": "procyon.webp",
+    "north": "visible"
   },
   {
     "name": "Achernar",
-    "file": "achernar.webp"
+    "file": "achernar.webp",
+    "north": "not visible"
   },
   {
     "name": "Betelgeuse",
-    "file": "betelgeuse.webp"
+    "file": "betelgeuse.webp",
+    "north": "visible"
   },
   {
     "name": "Hadar",
-    "file": "hadar.webp"
+    "file": "hadar.webp",
+    "north": "not visible"
   },
   {
     "name": "Altair",
-    "file": "altair.webp"
+    "file": "altair.webp",
+    "north": "visible"
   },
   {
     "name": "Acrux",
-    "file": "acrux.jpg"
+    "file": "acrux.jpg",
+    "north": "not visible"
   },
   {
     "name": "Aldebaran",
-    "file": "aldebaran.jpg"
+    "file": "aldebaran.jpg",
+    "north": "visible"
   },
   {
     "name": "Antares",
-    "file": "antares.webp"
+    "file": "antares.webp",
+    "north": "visible"
   },
   {
     "name": "Spica",
-    "file": "spica.webp"
+    "file": "spica.webp",
+    "north": "visible"
   },
   {
     "name": "Pollux",
-    "file": "pollux.webp"
+    "file": "pollux.webp",
+    "north": "visible"
   },
   {
     "name": "Fomalhaut",
-    "file": "fomalhaut.webp"
+    "file": "fomalhaut.webp",
+    "north": "not visible"
   },
   {
     "name": "Deneb",
-    "file": "deneb.webp"
+    "file": "deneb.webp",
+    "north": "visible"
   },
   {
     "name": "Mimosa",
-    "file": "mimosa.jpg"
+    "file": "mimosa.jpg",
+    "north": "not visible"
   },
   {
     "name": "Regulus",
-    "file": "regulus.webp"
+    "file": "regulus.webp",
+    "north": "visible"
   },
   {
     "name": "Castor",
-    "file": "castor.jpg"
+    "file": "castor.jpg",
+    "north": "visible"
   },
   {
     "name": "Bellatrix",
-    "file": "bellatrix.png"
+    "file": "bellatrix.png",
+    "north": "visible"
   },
   {
     "name": "Gacrux",
-    "file": "gacrux.jpg"
+    "file": "gacrux.jpg",
+    "north": "not visible"
   },
   {
     "name": "Shaula",
-    "file": "shaula.webp"
+    "file": "shaula.webp",
+    "north": "not visible"
   },
   {
     "name": "Elnath",
-    "file": "elnath.jpg"
+    "file": "elnath.jpg",
+    "north": "visible"
   }
 ]
