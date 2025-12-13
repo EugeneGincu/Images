@@ -128,10 +128,5 @@
     "name": "Elnath",
     "file": "elnath.jpg",
     "north": "visible"
-  },
-  {
-    "name": "Polaris",
-    "file": "polaris.jpg",
-    "north": "visible"
   }
 ]
